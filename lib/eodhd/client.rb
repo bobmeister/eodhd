@@ -7,7 +7,7 @@ require 'eodhd/configurable'
 # require 'marketstack/error/client_error'
 # require 'marketstack/error/decode_error'
 
-module Marketstack
+module Eodhd
   # Wrapper for the Tradier REST API
   class Client
     # include Eodhd::API::Exchange
